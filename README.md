@@ -20,5 +20,5 @@ This project applies extractive summarization techniques to a set of three news 
 - Python: For data processing and model development.
 - NLTK / SpaCy: For text preprocessing and tokenization.
 - Rouge Score: For summarization evaluation.
-
-![image](https://github.com/user-attachments/assets/fabfc198-ce19-4f5c-a2a1-beed7d392986)
+  
+![test](https://github.com/user-attachments/assets/18c4603d-1c2f-447f-8623-a3f1408a44df)
